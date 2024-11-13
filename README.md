@@ -11,5 +11,9 @@ This paper presents a novel interface, FlightAR, that integrates augmented reali
 
 
 
-https://github.com/user-attachments/assets/ddcaa640-6391-47c6-8eb8-adee144226a3
+
+
+<video src="https://github.com/user-attachments/assets/ddcaa640-6391-47c6-8eb8-adee144226a3" controls="controls" style="max-width: 730px;">
+</video>
+
 
